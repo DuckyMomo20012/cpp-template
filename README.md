@@ -2,6 +2,8 @@
 
 > ⚠️ WARNING: This template is unstable, use with caution.
 
+## Environment:
+
 <table>
   <tr>
     <th>Language</th>
@@ -10,6 +12,10 @@
   <tr>
     <th>OS</th>
     <td>Debian 11</td>
+  </tr>
+  <tr>
+    <th>gcc, g++</th>
+    <td>10.2.1</td>
   </tr>
 </table>
 
