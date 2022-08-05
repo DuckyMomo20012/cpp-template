@@ -88,9 +88,9 @@
 
 ### :bangbang: Prerequisites
 
-- CPP version: `>= C++17`.
 - GCC, G++.
 - GDB.
+- make.
 
 <!-- Run Locally -->
 
